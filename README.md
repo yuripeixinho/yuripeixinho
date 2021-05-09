@@ -4,11 +4,11 @@
     <a href="https://github.com/yuripeixinho/github-readme-stats">
     <br>
     <br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuripeixinho&layout=compact" width="450"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuripeixinho&layout=compact" width="400"/>
   </a>
 	
 <a href="https://github.com/yuripeixinho/github-readme-stats%22%3E">
-    <img align="center"  height="120" src="https://github-readme-stats.vercel.app/api?username=yuripeixinho&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"/>
+    <img align="center"  height="180" src="https://github-readme-stats.vercel.app/api?username=yuripeixinho&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"/>
  </a>
 </p>
 
