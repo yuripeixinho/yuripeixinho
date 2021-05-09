@@ -4,7 +4,7 @@
     <a href="https://github.com/yuripeixinho/github-readme-stats">
     <br>
     <br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuripeixinho&layout=compact" width="250"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuripeixinho&layout=compact" width="300"/>
   </a>
 	
 <a href="https://github.com/yuripeixinho/github-readme-stats%22%3E">
