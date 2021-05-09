@@ -41,13 +41,17 @@ Any advanced technology is indistinct from magic.
 <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
 <br>
 </p>
+
 <p align="center">    
- <a href="https://github.com/yuripeixinho/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuripeixinho&show_icons=true&theme=dracula&include width="170px"/>
-  </a>
+<br>
+	
 <a href="https://github.com/yuripeixinho/github-readme-stats%22%3E">
-    <img align="center"  height="140" src="https://github-readme-stats.vercel.app/api?username=yuripeixinho&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"/>
- </a>
- </p>
+<img align="center"  height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuripeixinho&layout=compact&theme=tokyonight"/>
+</a>
+	
+<a href="https://github.com/yuripeixinho/github-readme-stats"> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuripeixinho&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=tokyonight"/></a>
+
+</p>
 
 
