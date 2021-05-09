@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img align="center" width="500" src="dev.gif" />
+    <img align="center" width="600" src="dev.gif" />
     <a href="https://github.com/yuripeixinho/github-readme-stats">
     <br>
     <br>
