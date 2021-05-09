@@ -29,6 +29,7 @@ Any advanced technology is indistinct from magic.
  - Web Developer - *Havard University* 
 <br>
 <br>
+
 ## Skills 
 <p align="center">
      <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
