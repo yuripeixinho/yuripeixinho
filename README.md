@@ -50,7 +50,7 @@ Any advanced technology is indistinct from magic.
 </a>
 	
 <a href="https://github.com/yuripeixinho/github-readme-stats"> 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuripeixinho&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=tokyonight"/></a>
+<img align="center" width="140" src="https://github-readme-stats.vercel.app/api?username=yuripeixinho&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=tokyonight"/></a>
 
 </p>
 
