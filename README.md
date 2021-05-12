@@ -1,16 +1,20 @@
-<div>
-     <img src="1.png">
-</div>
+<p align="center">
+  <a href="#">
+    <img align="right" width="500" src="1.png"/>
+  </a>
+</p>
 
+# Hello!  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+My name is **Yuri**, I am from Brazil and my specialty is **Full Stack Web development**, but I intend to improve myself in other area such as AI, Mobile and others. I am studying systems analysis and development and I want to learn a lot of languages and do projects to help the world.
 
-# Hello! 
-My name is **Yuri**, I am from Brazil and my specialty is **Full Stack Web development**, but I intend to improve myself in other areas such as AI, Mobile and others. I am studying systems analysis and development and I want to learn a lot of languages and do projects to help the world.
-
-Any advanced technology is indistinct from magic.
+<i>"Any advanced technology is indistinct from magic."</i>
 
 **A little about myself...**
-
  - I have a twin brother and we always work together.
+
+<br>
+<br>
+<br>
 <br>
 
 ## Reach me out 👇
@@ -43,7 +47,6 @@ Any advanced technology is indistinct from magic.
 <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-<br>
 </p>
 
 <p align="center">    
