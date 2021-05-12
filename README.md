@@ -1,3 +1,7 @@
+<div>
+     <img src="1.png">
+</div>
+
 
 # Hello! 
 My name is **Yuri**, I am from Brazil and my specialty is **Full Stack Web development**, but I intend to improve myself in other areas such as AI, Mobile and others. I am studying systems analysis and development and I want to learn a lot of languages and do projects to help the world.
