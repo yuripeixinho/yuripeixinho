@@ -19,9 +19,7 @@ My name is **Yuri**, I am from Brazil and my specialty is **Full Stack Web devel
 
 ## Reach me out 👇
 <div align="center">
-<a href="https://discord.gg/QxWscvUfDP">
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" width="135px"> 
-</a>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/peixinhoyuri/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="160px">
