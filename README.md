@@ -5,7 +5,7 @@
 </p>
 
 # Hello!  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-My name is **Yuri**, I am from Brazil and my specialty is **Full Stack Web development**, but I intend to improve myself in other area such as AI, Mobile and others. I am studying systems analysis and development and I want to learn a lot of languages and do projects to help the world.
+My name is **Yuri**, I am from Brazil and my specialty is **Full Stack Web development**, but I intend to improve myself in other area such as AI, Mobile and others. I am studying systems analysis and development and I want to learn a lot.
 
 <i>"Any advanced technology is indistinct from magic."</i>
 
