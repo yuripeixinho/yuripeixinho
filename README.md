@@ -10,6 +10,8 @@ My name is **Yuri**, I am from Brazil and my specialty is **Full Stack Web devel
 
 **A little about myself...**
  - I have a twin brother and we always work together.
+ - i have no idea the reason, but I know decorated all countries in europe.
+
 
 <br>
 <br>
