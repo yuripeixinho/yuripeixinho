@@ -34,7 +34,7 @@ My name is **Yuri**, I am from Brazil and my specialty is **Full Stack Web devel
 </div>
 
 ## Certificates 👨‍🎓
- - Web Developer - *Havard University* 
+ - Algorithm, Stanford University
 <br>
 <br>
 
