@@ -32,10 +32,6 @@ My name is **Yuri**, I am from Brazil and my specialty is **Full Stack Web devel
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="145px">
 </div>
 
-## Certificates 👨‍🎓
- - Algorithm, Stanford University
-<br>
-<br>
 
 ## Skills 
 <p align="center">
