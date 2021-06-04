@@ -1,7 +1,8 @@
 
 
 # Hello! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-My name is **Yuri**, I am from Brazil and my specialty is **Full Stack Web development**, but I intend to improve myself in other area such as AI, Mobile and others. I am studying systems analysis at UNINASSAU, a brazilian college and studying alone in my free time. 
+My name is **Yuri**, I am from Brazil and my specialty is **Full Stack Web development**, but I intend to improve myself in other area such as AI, computer vision
+Machine Learning and others. I am studying systems analysis at UNINASSAU, a brazilian college and studying alone in my free time. 
 
 
 **A little about myself...**
