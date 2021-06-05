@@ -16,7 +16,7 @@ Machine Learning and others. I am studying systems analysis at UNINASSAU, a braz
 
 ## Reach me out 👇
 <div align="center">
-
+<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/peixinhoyuri/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="160px">
@@ -32,6 +32,7 @@ Machine Learning and others. I am studying systems analysis at UNINASSAU, a braz
 
 
 ## Skills 
+<br>
 <p align="center">
      <img height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
