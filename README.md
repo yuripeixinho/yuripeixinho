@@ -9,9 +9,6 @@ Machine Learning and others. I am studying systems analysis at UNINASSAU, a braz
  - I have a twin brother and we always work together.
  - 📫 Send me a message on [Instagram](https://www.instagram.com/peixinhoyuri/). I will certainly answer you xD
 
-
-<br>
-<br>
 <br>
 
 ## Reach me out 👇
