@@ -1,4 +1,3 @@
-# Hello!
 <div align="center">
 	<img src="github.png">
 <div>
