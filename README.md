@@ -15,22 +15,7 @@
 	
 	
 
-<div>
-	<a href="https://github.com/yuripeixinho/github-readme-stats%22%3E">
-	<img align="center"  width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuripeixinho&layout=compact&theme=react"/></a>
-<div>
 
-	
-	
-<br>
-<br>
-<div>
-	<img height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<div>
 	
 	
 
@@ -49,6 +34,35 @@
 	<a href="https://www.linkedin.com/in/yuri-peixinho-6a943b206/">
 	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="145px">
 </div>
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+## Skills	
+<br>
+<div>
+	<a href="https://github.com/yuripeixinho/github-readme-stats%22%3E">
+	<img align="center"  width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuripeixinho&layout=compact&theme=react"/></a>
+<div>
+	
+	
+<br>
+<br>
+<div>
+	<img height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<div>
+	
 
 
 
