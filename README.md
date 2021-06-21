@@ -22,7 +22,7 @@
 <br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://www.instagram.com/peixinhoyuri/">
-	<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="160px">
+	<img src="instagram.png" width="160px">
 </a>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="mailto:yuripeixinho03@gmail.com">
