@@ -22,15 +22,15 @@
 <br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://www.instagram.com/peixinhoyuri/">
-	<img src="instagram.png" width="160px">
+	<img src="instagram.png" width="50px">
 </a>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="mailto:yuripeixinho03@gmail.com">
-	<img src="gmail.png" width="109px">
+	<img src="gmail.png" width="50px">
 </a>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://www.linkedin.com/in/yuri-peixinho-6a943b206/">
-	<img src="linkedin.png" width="145px">
+	<img src="linkedin.png" width="50px">
 </div>
 	
 	
