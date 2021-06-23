@@ -11,7 +11,16 @@
 	<br>
 <div>
 	
-	
+ 
+ </div>
+ 
+<a href="#"><img align="left" width="150" height="#" src="yuripeixinho.png"></a>
+	<p align="left">📍 From Brazil </p> 
+ 	<p align="left">👨🏻‍💻 Student of Systems Analysis and Development </p> 
+	<p align="left">📫 Send me a message. I will certainly answer you and let be friends! </p>
+ 
+<br>
+<br>
 	
 	
 	
