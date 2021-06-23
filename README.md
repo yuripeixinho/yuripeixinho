@@ -23,23 +23,20 @@
 <br>
 	
 	
-	
-	
-	
 ## Reach me out
-<div align="center">
+<div align="left">
 <br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://www.instagram.com/peixinhoyuri/">
-	<img src="instagram.png" width="50px">
+	<img src="instagram.png" width="40px">
 </a>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="mailto:yuripeixinho03@gmail.com">
-	<img src="gmail.png" width="50px">
+	<img src="gmail.png" width="45px">
 </a>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://www.linkedin.com/in/yuri-peixinho-6a943b206/">
-	<img src="linkedin.png" width="50px">
+	<img src="linkedin.png" width="40px">
 </div>
 	
 	
