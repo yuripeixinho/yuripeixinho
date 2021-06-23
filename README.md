@@ -5,8 +5,8 @@
 <div>
 	<br>
 	<br>
-		My name is Yuri, I am from Brazil and my specialty is Full Stack Web development but I intend to improve myself in other area such as AI, computer vision
-		Machine Learning and others. I am studying systems analysis at UNINASSAU, a brazilian college and studying alone in my free time. 
+		My name is Yuri, my specialty is Full Stack Web development but I intend to improve myself in other area such as AI, computer vision
+		Machine Learning and others. 
 	<br>
 	<br>
 <div>
@@ -23,8 +23,8 @@
 <br>
 	
 	
-## Reach me out
-<div align="left">
+## Reach me out 
+<div align="center">
 <br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://www.instagram.com/peixinhoyuri/">
