@@ -9,22 +9,21 @@
 		Machine Learning and others. 
 	<br>
 	<br>
-<div>
+</div>
 	
  
- </div>
  
-<a href="#"><img align="left" width="120" height="#" src="yuri.png"></a>
+<a href="#"><img align="left" width="130" height="#" src="yuri.png"></a>
 	<p align="left">📍 From Brazil </p> 
  	<p align="left">👨🏻‍💻 Student of Systems Analysis and Development </p> 
-	<p align="left">📫 Send me a message. I will certainly answer you and let be friends! </p>
- 
-<br>
+	<p align="left">♊ I have a twin brother and we almost always work together</p>
+ 	<p align="left">📫 Send me a message. I will certainly answer you and let be friends! </p>
+
 <br>
 <br>
 <br>
 	
-## Reach me out 
+## Reach me out
 <div align="center">
 <br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
