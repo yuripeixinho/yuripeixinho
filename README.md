@@ -36,7 +36,7 @@ My name is Yuri, my specialty is Full Stack Web development but I intend to impr
 	
 ## Skills	
 <br>
-<div>
+<div align="center">
 	<a href="https://github.com/yuripeixinho/github-readme-stats%22%3E">
 	<img align="center"  width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuripeixinho&layout=compact&theme=react"/></a>
 <div>
