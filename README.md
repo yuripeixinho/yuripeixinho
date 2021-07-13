@@ -1,28 +1,19 @@
-<div align="center">
-	<img src="github1.png">
-<div>
+<img src="github1.png" align="right">
 
-<div>
+
+# Hello!
+My name is Yuri, my specialty is Full Stack Web development but I intend to improve myself in other area such as AI, computer vision Machine Learning and others. 
+
+<a href="#">
 	<br>
-	<br>
-		My name is Yuri, my specialty is Full Stack Web development but I intend to improve myself in other area such as AI, computer vision
-		Machine Learning and others. 
-	<br>
-	<br>
-</div>
-	
- 
- 
-<a href="#"><img align="left" width="130" height="#" src="yuri.png"></a>
 	<p align="left">📍 From Brazil </p> 
  	<p align="left">👨🏻‍💻 Student of Systems Analysis and Development </p> 
 	<p align="left">♊ I have a twin brother and we almost always work together</p>
  	<p align="left">📫 Send me a message. I will certainly answer you and let be friends! </p>
+</a>
 
 <br>
-<br>
-<br>
-	
+
 ## Reach me out
 <div align="center">
 <br>
@@ -38,8 +29,7 @@
 	<a href="https://www.linkedin.com/in/yuri-peixinho-6a943b206/">
 	<img src="linkedin.png" width="40px">
 </div>
-	
-	
+
 	
 	
 	
@@ -50,15 +40,3 @@
 	<a href="https://github.com/yuripeixinho/github-readme-stats%22%3E">
 	<img align="center"  width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuripeixinho&layout=compact&theme=react"/></a>
 <div>
-	
-	
-	
-
-
-
-	
-	
-	
-
-
-
