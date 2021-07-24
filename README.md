@@ -2,7 +2,9 @@
 
 #
 <div align="center">
-	My name is Yuri, my specialty is Full Stack Web development but I intend to improve myself in other area such as AI, computer vision Machine Learning and others. 
+	Hello my friend, my name is Yuri and I'm a web technology enthusiast below, we have some information about me, technologies used and some ongoing or completed projects. You can contact me through my social networks, which are also below
+
+
 </div>
 
 <br>
