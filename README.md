@@ -6,10 +6,10 @@ My name is Yuri, my specialty is Full Stack Web development but I intend to impr
 
 <a href="#">
 	<br>
-	<p align="left">📍 From Brazil </p> 
- 	<p align="left">👨🏻‍💻 Student of Systems Analysis and Development </p> 
-	<p align="left">♊ I have a twin brother and we almost always work together</p>
- 	<p align="left">📫 Send me a message. I will certainly answer you and let be friends! </p>
+	<p align="center">📍 From Brazil </p> 
+ 	<p align="center">👨🏻‍💻 Student of Systems Analysis and Development </p> 
+	<p align="center">♊ I have a twin brother and we almost always work together</p>
+ 	<p align="center">📫 Send me a message. I will certainly answer you and let be friends! </p>
 </a>
 
 <br>
@@ -40,3 +40,21 @@ My name is Yuri, my specialty is Full Stack Web development but I intend to impr
 	<a href="https://github.com/yuripeixinho/github-readme-stats%22%3E">
 	<img align="center"  width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuripeixinho&layout=compact&theme=react"/></a>
 <div>
+
+<br>
+<br>
+	
+<div>
+	<img src="https://image.flaticon.com/icons/png/512/1197/1197396.png" width= "6%">
+	<img src="https://image.flaticon.com/icons/png/512/1081/1081829.png" width= "6%">
+	<img src="https://image.flaticon.com/icons/png/512/1548/1548791.png" width= "6%">
+</div>
+	
+	
+	
+	
+	
+	
+	
+	
+	
