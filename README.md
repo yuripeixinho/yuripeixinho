@@ -1,5 +1,6 @@
 <img src="github1.png" align="right">
 
+#
 <div align="center">
 	My name is Yuri, my specialty is Full Stack Web development but I intend to improve myself in other area such as AI, computer vision Machine Learning and others. 
 </div>
