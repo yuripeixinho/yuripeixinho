@@ -1,10 +1,12 @@
 <img src="github1.png" align="right">
 
+<div align="center">
+	My name is Yuri, my specialty is Full Stack Web development but I intend to improve myself in other area such as AI, computer vision Machine Learning and others. 
+</div>
 
-# Hello!
-My name is Yuri, my specialty is Full Stack Web development but I intend to improve myself in other area such as AI, computer vision Machine Learning and others. 
+<br>
 
-<a href="#">
+<a>
 	<br>
 	<p align="center">📍 From Brazil </p> 
  	<p align="center">👨🏻‍💻 Student of Systems Analysis and Development </p> 
