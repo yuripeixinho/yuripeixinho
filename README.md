@@ -1,5 +1,4 @@
 
-#
 <div align="center">
 	Hello my friend, my name is Yuri and I'm a web technology enthusiast below, we have some information about me, technologies used and some ongoing or completed projects. You can contact me through my social networks, which are also below
 
