@@ -1,4 +1,3 @@
-<img src="github1.png" align="right">
 
 #
 <div align="center">
@@ -24,15 +23,15 @@
 <br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://www.instagram.com/peixinhoyuri/">
-	<img src="https://image.flaticon.com/icons/png/512/356/356077.png" width="6%">
+	<img src="https://image.flaticon.com/icons/png/512/174/174855.png" width="5%">
 </a>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="mailto:yuripeixinho03@gmail.com">
-	<img src="https://image.flaticon.com/icons/png/512/356/356094.png" width="6%">
+	<img src="https://image.flaticon.com/icons/png/512/732/732200.png" width="5%">
 </a>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://www.linkedin.com/in/yuri-peixinho-6a943b206/">
-	<img src="https://image.flaticon.com/icons/png/512/356/356096.png" width="6%">
+	<img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="5%">
 </div>
 
 	
@@ -52,11 +51,15 @@
 <div>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="https://image.flaticon.com/icons/png/512/136/136446.png" width= "7%">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width= "7%">
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="https://image.flaticon.com/icons/png/512/136/136445.png" width= "7%">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width= "7%">
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="https://image.flaticon.com/icons/png/512/136/136448.png" width= "7%">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width= "6%">
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width= "7%">
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width= "7%">
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 	
