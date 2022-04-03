@@ -17,26 +17,6 @@
 
 <br>
 
-## Reach me out
-<div align="center">
-<br>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://www.instagram.com/peixinhoyuri/">
-	<img src="https://image.flaticon.com/icons/png/512/174/174855.png" width="5%">
-</a>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="mailto:yuripeixinho03@gmail.com">
-	<img src="https://image.flaticon.com/icons/png/512/732/732200.png" width="5%">
-</a>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://www.linkedin.com/in/yuri-peixinho-6a943b206/">
-	<img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="5%">
-</div>
-
-	
-	
-	
-	
 ## Skills	
 <br>
 <div align="center">
