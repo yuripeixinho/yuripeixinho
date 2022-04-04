@@ -45,18 +45,19 @@ I'm a technology enthusiast since I was little, I was interested, but I always t
 
 ```javascript
 const yuriPeixinho = {
-  createdAt: Tue Jan 21 2003 19:20:00 GMT-0300,
+  createdAt: Tue Jan 21 2003 19:22:00 GMT-0300,
   industryKnowledge: [Scrum],
   toolsAndTechnologies: [
-    React.js,
     JavaScript,
+    React.js,
     HTML,
     CSS,
+    SCSS,
+    Python,
+    Flask,
     MySQL,
     Docker,
     Git,
-    Github,
-    SCSS,
   ],
   languages: ["portuguese", "english"],
 };
