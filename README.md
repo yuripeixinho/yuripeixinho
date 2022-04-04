@@ -23,7 +23,7 @@
     
 <br>
 
-I am currently a software developer and programmer. I'm always willing to learn new things, especially when it comes to technology. Feel free to visit my repositories and message me through my social networks.
+I'm a technology enthusiast since I was little, I was interested, but I always thought it was a bigger role than I could handle, I started studying and now I'm here, seeking more and more knowledge and constantly evolving.
 
 <br>
 
@@ -31,9 +31,8 @@ I am currently a software developer and programmer. I'm always willing to learn 
     
 - born and raised in Brazil, João Pessoa, Paraíba
 - student of Systems Analysis and Development by [uninassau](https://www.uninassau.edu.br/)
-- self-taught
+- i have a twin brother and we almost always work together
 - send me a [instagram direct](https://www.instagram.com/yagopeixinho/) and let be friends ( ﾉ ^ ｰ ^)ﾉ
-- one of my hobbies is playing video games, [send me a message](https://www.instagram.com/yagopeixinho/) and let's play together :D
 
 <br>
     
