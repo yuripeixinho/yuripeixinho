@@ -30,9 +30,9 @@ I'm a technology enthusiast since I was little, I was interested, but I always t
 <img src="https://media.giphy.com/media/aLI73eIgT41b2/giphy.gif" align="right" height="150" />
     
 - born and raised in Brazil, João Pessoa, Paraíba
-- student of Systems Analysis and Development by [uninassau](https://www.uninassau.edu.br/)
+- student of Systems Analysis and Development by [Uninassau](https://www.uninassau.edu.br/)
 - i have a twin brother and we almost always work together
-- send me a [instagram direct](https://www.instagram.com/yagopeixinho/) and let be friends ( ﾉ ^ ｰ ^)ﾉ
+- send me a [instagram direct](https://www.instagram.com/yuripeixinhoo/) and let be friends ( ﾉ ^ ｰ ^)ﾉ
 
 <br>
     
