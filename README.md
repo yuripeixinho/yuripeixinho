@@ -5,7 +5,7 @@ I've been working as a full-stack developer since 2021. I focus mainly on integr
 
 - Born and raised in Brazil, João Pessoa, Paraíba
 - I have a twin brother and we almost always work together
-- Send me a [instagram direct](https://www.instagram.com/yuripeixinhoo/) and let be friends ( ﾉ ^ ｰ ^)ﾉ
+- Send me a [instagram direct](https://www.instagram.com/yuripeixinhoo/) and let be friends
 
 <details>
     <summary>
