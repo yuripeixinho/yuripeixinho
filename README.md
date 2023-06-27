@@ -7,49 +7,37 @@ Trabalho como desenvolvedor full-stack desde 2021. Foco principalmente na integr
 - i have a twin brother and we almost always work together
 - send me a [instagram direct](https://www.instagram.com/yuripeixinhoo/) and let be friends ( ﾉ ^ ｰ ^)ﾉ
 
-<br>
-
-
-
-
-
-
-
-
-
-
-
-    
 <details>
     <summary>
         technologies and knowledge    
     </summary>
+    
+<br />
 
-```javascript
-const yuriPeixinho = {
-  createdAt: Tue Jan 21 2003 19:22:00 GMT-0300,
-  industryKnowledge: [Scrum],
-  toolsAndTechnologies: [
-    JavaScript,
-    React.js,
-    HTML,
-    CSS,
-    SCSS,
-    Python,
-    Flask,
-    MySQL,
-    Docker,
-    Git,
-  ],
-  languages: ["portuguese", "english"],
-};
-```
+<div>
+    <img width="5%" marginLeft="500px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+    <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+    <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+    <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+    <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+</div>
+
+<br />
+<div>
+    <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+    <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+    <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+    <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+    <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+</div>
+
+
 
 </details>
 
-<br>
-<br>
+
 
 <div align="center">
-    <img  width=35.7% src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuripeixinho&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img  width=30.7% src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuripeixinho&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
 </div>
+
