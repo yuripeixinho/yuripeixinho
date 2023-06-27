@@ -1,42 +1,25 @@
-<h3> 
-    hi, i'm yuri peixinho! 
-</h3>
+# Hey, i'm Yuri Peixinho 💻🐟
 
-<img align="right" src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="230">
-    <p>
-        <em>software enginner at 
-            <a href="https://www.uninassau.edu.br">maurício de nasau university</a> 
-</br>
-        software developer at 
-            <a href="https://www.seno-ti.com.br/en/home-en/">Seno</a>
-        </em>
-    </p>
+Trabalho como desenvolvedor full-stack desde 2021. Foco principalmente na integração de interfaces de projetos escaláveis com JavaScript, React.JS e SASS, além disso, possuo experiências em desenvolver API 's em micro serviços utilizando Python-Flask e MYSQL. Tenho inglês avançado (C1) e experiências em projetos multi-idiomas. No tempo livre, eu atuo como proprietário da organização [nome organização] em conjunto com meu irmão gêmeo para aprimorar meus conhecimentos em gestão de projetos, backend e devops.
 
-<br>
-
-## a little more about me...
-
-<details>
-    <summary>
-         who I am?
-    </summary>
-    
-<br>
-
-I'm a technology enthusiast since I was little, I was interested, but I always thought it was a bigger role than I could handle, I started studying and now I'm here, seeking more and more knowledge and constantly evolving.
-
-<br>
-
-    
 - born and raised in Brazil, João Pessoa, Paraíba
 - student of Systems Analysis and Development by [Uninassau](https://www.uninassau.edu.br/)
 - i have a twin brother and we almost always work together
 - send me a [instagram direct](https://www.instagram.com/yuripeixinhoo/) and let be friends ( ﾉ ^ ｰ ^)ﾉ
 
 <br>
-    
-</details>
 
+
+
+
+
+
+
+
+
+
+
+    
 <details>
     <summary>
         technologies and knowledge    
