@@ -1,11 +1,11 @@
 
 # Hey, i'm Yuri Peixinho 💻🐟
 
-Trabalho como desenvolvedor full-stack desde 2021. Foco principalmente na integração de interfaces de projetos escaláveis com JavaScript, React.JS e SASS, além disso, possuo experiências em desenvolver API 's em micro serviços utilizando Python-Flask e MYSQL. No tempo livre, eu atuo como proprietário da organização [nome organização] em conjunto com meu irmão gêmeo para aprimorar meus conhecimentos em gestão de projetos, backend e devops. Venha conhecer um pouco do meu aquário!
+I've been working as a full-stack developer since 2021. I focus mainly on integrating scalable project interfaces with JavaScript, ReactJS and SASS, in addition, I have experience developing API's in micro services using Python-Flask and MYSQL. In my free time, I act as the owner of the organization Diosonic together with my twin brother to improve my knowledge in project management, backend and devops. Come and see some of my aquarium!
 
-- born and raised in Brazil, João Pessoa, Paraíba
-- i have a twin brother and we almost always work together
-- send me a [instagram direct](https://www.instagram.com/yuripeixinhoo/) and let be friends ( ﾉ ^ ｰ ^)ﾉ
+- Born and raised in Brazil, João Pessoa, Paraíba
+- I have a twin brother and we almost always work together
+- Send me a [instagram direct](https://www.instagram.com/yuripeixinhoo/) and let be friends ( ﾉ ^ ｰ ^)ﾉ
 
 <details>
     <summary>
