@@ -1,3 +1,4 @@
+
 # Hey, i'm Yuri Peixinho 💻🐟
 
 Trabalho como desenvolvedor full-stack desde 2021. Foco principalmente na integração de interfaces de projetos escaláveis com JavaScript, React.JS e SASS, além disso, possuo experiências em desenvolver API 's em micro serviços utilizando Python-Flask e MYSQL. Tenho inglês avançado (C1) e experiências em projetos multi-idiomas. No tempo livre, eu atuo como proprietário da organização [nome organização] em conjunto com meu irmão gêmeo para aprimorar meus conhecimentos em gestão de projetos, backend e devops.
@@ -13,31 +14,26 @@ Trabalho como desenvolvedor full-stack desde 2021. Foco principalmente na integr
     </summary>
     
 <br />
+	<img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />  &nbsp;
+    <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> &nbsp;
+   <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  &nbsp;
+    <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> &nbsp;
+    <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> &nbsp;
+    <img width="4.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> &nbsp;
+  
+ <br />
+ <br />
 
-<div>
-    <img width="5%" marginLeft="500px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-    <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-    <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-    <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-    <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-</div>
+<img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /> 
 
 <br />
-<div>
-    <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-    <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-    <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-    <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-    <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-</div>
+<br />
 
-
+<img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /> &nbsp;&nbsp;
+<img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" /> 
 
 </details>
 
 
-
-<div align="center">
-    <img  width=30.7% src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuripeixinho&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-</div>
 
