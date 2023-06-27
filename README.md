@@ -1,7 +1,7 @@
 
 # Hey, i'm Yuri Peixinho 💻🐟
 
-Trabalho como desenvolvedor full-stack desde 2021. Foco principalmente na integração de interfaces de projetos escaláveis com JavaScript, React.JS e SASS, além disso, possuo experiências em desenvolver API 's em micro serviços utilizando Python-Flask e MYSQL. Tenho inglês avançado (C1) e experiências em projetos multi-idiomas. No tempo livre, eu atuo como proprietário da organização [nome organização] em conjunto com meu irmão gêmeo para aprimorar meus conhecimentos em gestão de projetos, backend e devops.
+Trabalho como desenvolvedor full-stack desde 2021. Foco principalmente na integração de interfaces de projetos escaláveis com JavaScript, React.JS e SASS, além disso, possuo experiências em desenvolver API 's em micro serviços utilizando Python-Flask e MYSQL. No tempo livre, eu atuo como proprietário da organização [nome organização] em conjunto com meu irmão gêmeo para aprimorar meus conhecimentos em gestão de projetos, backend e devops. Venha conhecer um pouco do meu aquário!
 
 - born and raised in Brazil, João Pessoa, Paraíba
 - student of Systems Analysis and Development by [Uninassau](https://www.uninassau.edu.br/)
