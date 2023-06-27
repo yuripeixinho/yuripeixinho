@@ -27,7 +27,6 @@ I'm a technology enthusiast since I was little, I was interested, but I always t
 
 <br>
 
-<img src="https://media.giphy.com/media/aLI73eIgT41b2/giphy.gif" align="right" height="150" />
     
 - born and raised in Brazil, João Pessoa, Paraíba
 - student of Systems Analysis and Development by [Uninassau](https://www.uninassau.edu.br/)
