@@ -7,7 +7,6 @@ I've been working as a full-stack developer since 2021. I focus mainly on integr
 - I have a twin brother and we almost always work together
 - Send me a [instagram direct](https://www.instagram.com/yuripeixinhoo/) and let be friends
 
-<details>
     <summary>
         technologies and knowledge    
     </summary>
@@ -32,7 +31,6 @@ I've been working as a full-stack developer since 2021. I focus mainly on integr
 <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /> &nbsp;&nbsp;
 <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" /> 
 
-</details>
 
 
 
