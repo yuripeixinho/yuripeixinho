@@ -1,4 +1,4 @@
-![Profile Banner](https://static.planetminecraft.com/files/profile_banner/1150707_0.gif)
+<img src="./bg.gif" alt="Profile Banner" style="width: 100%;">
 
 ### Hi, i'm Yuri Peixinho
 
