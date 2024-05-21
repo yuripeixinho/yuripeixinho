@@ -1,7 +1,15 @@
 
-# Hey, i'm Yuri Peixinho 💻🐟
+### Hi, i'm Yuri Peixinho
 
-I've been working as a full-stack developer since 2021. I focus mainly on integrating scalable project interfaces with JavaScript, ReactJS and SASS, in addition, I have experience developing API's in micro services using Python-Flask and MYSQL. In my free time, I act as the owner of the organization Diosonic together with my twin brother to improve my knowledge in project management, backend and devops. Come and see some of my aquarium!
+I have been working as a systems engineer since 2021, specializing in .NET Framework, ReactJS, SCSS, and Transact-SQL. I have extensive experience in creating scalable interfaces and developing robust APIs. Additionally, I am a proficient T-SQL developer with strong expertise in database processes. Currently, I am focused on enhancing my project management skills.
+
+
+
+
+
+
+
+
 
 
 
