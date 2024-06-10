@@ -2,8 +2,7 @@
 
 ### Hi, i'm Yuri Peixinho
 
-I have worked as a systems engineer since 2021, specializing in .NET Framework, ReactJS, SCSS and Transact-SQL. I have extensive experience creating scalable interfaces and developing robust APIs. Additionally, I have experience as a T-SQL developer and database processes. Currently, I am focused on improving my project management skills.
-
+I have been a systems engineer since 2021, specializing in .NET Framework, SQL (Transact-SQL), ReactJS and SCSS. I have extensive experience in creating scalable interfaces and developing robust APIs. Currently, I apply my knowledge at JCM, where I use my full-stack skills to create solutions in the closed supplementary pension sector, focusing on automation of banking processes with T-SQL and APIs. Additionally, I work at Ridae, where I apply my full-stack skills -stack and management to develop both for-profit and non-profit solutions.
 
 
 
