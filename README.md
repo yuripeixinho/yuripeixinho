@@ -1,4 +1,4 @@
-![Profile Banner](https://static.planetminecraft.com/files/profile_banner/1150707_0.gif)
+![Full Stack Developer](./full-stack-banner.png)
 
 ### Hi, i'm Yuri Peixinho
 
