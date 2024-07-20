@@ -1,4 +1,4 @@
-![Full Stack Developer](./full-stack-banner.png)
+![Full Stack Developer](./banner.png)
 
 ### Hi, i'm Yuri Peixinho
 
