@@ -7,10 +7,8 @@
 Developer specialized in .NET Core, Transact-SQL and React, with extensive experience in the analysis, development and integration of complex systems. My strategic and integrated vision of the complete development cycle enables me to efficiently combine different technologies, resulting in robust, scalable and optimized solutions that meet the demands of evolving businesses.
 
 
-
-
-
-
-
-
-
+<div align="left">
+  <a href="https://www.linkedin.com/in/yuripeixinho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:yuripeixinho03@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/5583988108820" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+</div>
