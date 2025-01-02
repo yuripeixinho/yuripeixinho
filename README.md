@@ -9,7 +9,7 @@
 
 Developer specialized in .NET Core, Transact-SQL and React, with extensive experience in the analysis, development and integration of complex systems. My strategic and integrated vision of the complete development cycle enables me to efficiently combine different technologies, resulting in robust, scalable and optimized solutions that meet the demands of evolving businesses.
 
-I am also part of an interest group, [Ridae](https://github.com/Ridaeorg), where I collaborate on various projects, both for-profit and volunteer-based. This involvement allows me to contribute to meaningful initiatives, work with diverse technologies, and continuously enhance my skills, while gaining valuable project management abilities.
+I am also part of an interest group, [Ridae](https://github.com/ridae-org), where I collaborate on various projects, both for-profit and volunteer-based. This involvement allows me to contribute to meaningful initiatives, work with diverse technologies, and continuously enhance my skills, while gaining valuable project management abilities.
 
 
 <div align="left">
