@@ -4,7 +4,7 @@
 
 
 <div>
-  <img align="left" style="margin-right: 200px;" src="./octocat-com-roupa.png" width="300px">
+  <img align="left" style="margin-right: 200px;" src="./octocat-1736712275650.png" width="300px">
 </div>
 
 Developer specialized in .NET Core, React and with experience in T-SQL. I have extensive experience in analysis, development and integration of complex systems. My strategic and integrated vision of the complete development cycle enables me to efficiently unite several technologies, resulting in robust, complete, scalable and optimized solutions that meet the demands of evolving businesses.
