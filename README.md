@@ -7,9 +7,13 @@
   <img align="left" style="margin-right: 200px;" src="./octocat-1736712275650.png" width="300px">
 </div>
 
-Developer specialized in .NET Core, React and with experience in T-SQL. I have extensive experience in analysis, development and integration of complex systems. My strategic and integrated vision of the complete development cycle enables me to efficiently unite several technologies, resulting in robust, complete, scalable and optimized solutions that meet the demands of evolving businesses.
+Graduado em Análise e Desenvolvimento de Sistemas, sou especializado em C#, .NET Core, Javascript, React, Banco de dados, SQL Server e com experiências em T-SQL para a construção de processos baseado em procedures. 
 
-I am also part of an interest group, [Ridae](https://github.com/ridae-org), where I collaborate on various projects, both for-profit and volunteer-based. This involvement allows me to contribute to meaningful initiatives, work with diverse technologies, and continuously enhance my skills, while gaining valuable project management abilities.
+Atualmente atuo no setor de previdência complementar fechada, sendo responsável pelo módulo de automação bancária, criando e otimizando processos com procedures em T-SQL. Além disso, lidero a implementação e manutenção do Sistema Público de Escrituração Digital (SPED), com foco na EFD-Reinf.
+
+Além de passar por todos os processos da engenharia de design do produto e software, aplico conhecimentos técnicos para automatizar o fluxo de trabalhos com Integração Contínua (CI) e Entrega Contínua (CD). Tenho experiências susbtanciais em autogestao, git e gitflow, e plataformas como o Azure Devops, Jira e metodologias ágeis, conteinerizacao com docker, monitoramento de perfomance utilizando Sentry e segurança como KeyVaults, Certificado Digitais, autenticação com Keycloack e frameworks como Entity Framework Core e Dapper.
+
+Além do código, sou autodidata e movido pela busca constante por conhecimento. No meu tempo livre, me dedico à calistenia, poker, musicais e filosofia. Acredito na democratização do aprendizado, por isso, documento e compartilho meu conhecimento publicamente via Notion. Também participo ativamente de um grupo de inovação, [Ridae](https://github.com/ridae-org), onde desenvolvo projetos e soluções tecnológicas passando por todas as etapas do ciclo de desenvolvimento.
 
 
 <div align="left">
