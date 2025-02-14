@@ -15,7 +15,7 @@ Além do código, sou autodidata e movido pela busca constante por conhecimento.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,react,mysql,docker,git,sentry,postman,azure,bitbucket" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,react,mysql,sqlite,docker,git,sentry,postman,azure,bitbucket" />
   </a>
 </p>
 
