@@ -29,3 +29,4 @@ Além do código, sou autodidata e movido pela busca constante por conhecimento.
 </div>
 
 
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/yuripeixinho/caderno-1b2671b57a3e80a49c8bcd4056c5d07f)
