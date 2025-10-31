@@ -2,7 +2,7 @@
 # Oi, sou Yuri Peixinho!
 Graduado em Análise e Desenvolvimento de Sistemas, especialista em C#, .NET Core, JavaScript, React e bancos de dados relacionais. Experiência sólida em SQL Server, incluindo criação e otimização de stored procedures, além de atuação no desenvolvimento de soluções escaláveis e de alto desempenho.
 
-## 🌊 Sobre mim 
+## Sobre mim 
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas
 - 🚀 Experiência no desenvolvimento de APIs escaláveis, integração com bancos de dados e automação de processos.
 - 🖥️ Em meus projetos livres, trabalho na [Ridae](https://github.com/ridae-org), onde desenvolvo soluções inovadoras e funcionais para o mercado de software.
