@@ -7,7 +7,7 @@ Graduado em Análise e Desenvolvimento de Sistemas, especialista em C#, .NET Cor
 - 🚀 Experiência no desenvolvimento de APIs escaláveis, integração com bancos de dados e automação de processos.
 - 🖥️ Em meus projetos livres, trabalho na [Ridae](https://github.com/ridae-org), onde desenvolvo soluções inovadoras e funcionais para o mercado de software.
 - 📚 Compartilho aprendizados e reflexões técnicas no [Dev.To](https://dev.to/yuripeixinho), publicando regularmente artigos baseados em experiências reais de desenvolvimento
-- 🎯 Busco oportunidades para aplicar minhas competências em C#, .NET Core, React e SQL Server, contribuindo em projetos desafiadores que exigem inovação e eficiência.
+- 🎯 Sempre em busca de novas oportunidades para aplicar minhas competências em C#, .NET Core, React e SQL Server, contribuindo em projetos desafiadores que exigem inovação e eficiência.
 - 📈 Minhas soluções sempre priorizam boas práticas, extensibilidade e modularidade
 
 ## :computer: Tecnologias e ferramentas
