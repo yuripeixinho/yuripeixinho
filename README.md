@@ -4,6 +4,7 @@ Graduado em Análise e Desenvolvimento de Sistemas, especialista em C#, .NET Cor
 
 ## Sobre mim 
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas
+- 🎓 Pós graduando em Engenharia de Software 
 - 🚀 Experiência no desenvolvimento de APIs escaláveis, integração com bancos de dados e automação de processos.
 - 🖥️ Em meus projetos livres, trabalho na [Ridae](https://github.com/ridae-org), onde desenvolvo soluções inovadoras e funcionais para o mercado de software.
 - 📚 Compartilho aprendizados e reflexões técnicas no [Dev.To](https://dev.to/yuripeixinho), publicando regularmente artigos baseados em experiências reais de desenvolvimento
