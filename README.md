@@ -10,7 +10,7 @@ Engenheiro de Software com +4 anos de experiência em SaaS, ERPs e fábrica de s
 - 🏗️ Arquitetura de software é onde vivo — Clean Architecture, DDD, CQRS, Monolito Modular e modernização de sistemas legados
 - 🖥️ Nos projetos livres, construo soluções na [Ridae](https://github.com/ridae-org) — comunidade multidisciplinar reunindo devs, designers e PMs
 - 📚 Compartilho aprendizados e reflexões técnicas no [Dev.To](https://dev.to/yuripeixinho), com artigos baseados em experiências reais de desenvolvimento
-- 📈 Minhas soluções priorizam boas práticas, extensibilidade, modularidade e continuidade operacional em produção
+- 📈 Minhas soluções priorizam boas práticas, simplicidade (extensibilidade e modularidade, se necessário), e continuidade operacional em produção
 
 ## :computer: Tecnologias e ferramentas
 
