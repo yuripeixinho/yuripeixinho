@@ -6,10 +6,8 @@ Engenheiro de Software com +4 anos de experiência em SaaS, ERPs e fábrica de s
 
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas
 - 🎓 Pós-graduando em Engenharia de Software — PUC Minas
-- 🏦 Especialista em automação bancária (CNAB 240/400, Itaú, Bradesco, Santander, BB, Citi) e obrigações fiscais (EFD-Reinf, eFinanceira, SPED)
-- 🏗️ Arquitetura de software é onde vivo — Clean Architecture, DDD, CQRS, Monolito Modular e modernização de sistemas legados
-- 🖥️ Nos projetos livres, construo soluções na [Ridae](https://github.com/ridae-org) — comunidade multidisciplinar reunindo devs, designers e PMs
-- 📚 Compartilho aprendizados e reflexões técnicas no [Dev.To](https://dev.to/yuripeixinho), com artigos baseados em experiências reais de desenvolvimento
+- 🖥️ Nos projetos livres, construo soluções na [Ridae](https://github.com/ridae-org)
+- 📚 Compartilho aprendizados resultantes dos estudos diários no [Dev.To](https://dev.to/yuripeixinho), com artigos baseados em experiências reais de desenvolvimento
 - 📈 Minhas soluções priorizam boas práticas, simplicidade (extensibilidade e modularidade, se necessário), e continuidade operacional em produção
 
 ## :computer: Tecnologias e ferramentas
