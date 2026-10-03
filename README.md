@@ -4,8 +4,8 @@ Engenheiro de Software com +4 anos de experiência em SaaS, ERPs e fábrica de s
 
 ## Sobre mim
 
-- 🎓 Graduado em Análise e Desenvolvimento de Sistemas
-- 🎓 Pós-graduando em Engenharia de Software — PUC Minas
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas, UNINASSAU
+- 🎓 Pós-graduando em Engenharia de Software, PUC Minas
 - 🖥️ Nos projetos livres, construo soluções na [Ridae](https://github.com/ridae-org)
 - 📚 Compartilho aprendizados resultantes dos estudos diários no [Dev.To](https://dev.to/yuripeixinho), com artigos baseados em experiências reais de desenvolvimento
 - 📈 Minhas soluções priorizam boas práticas, simplicidade (extensibilidade e modularidade, se necessário), e continuidade operacional em produção
