@@ -1,4 +1,4 @@
-## Oi, sou Yuri Peixinho!
+# Oi, sou Yuri Peixinho!
 
 Engenheiro de Software com +4 anos de experiência em SaaS, ERPs e fábrica de software. Especializado em automação de processos bancários (cobranças, pagamentos, débito automático) e obrigações fiscais governamentais (SPED). Atualmente atuo como Tech Lead de time financeiro, que envolve Investimentos, Fiscal, Contabilidade e Empréstimo com foco em modernização de sistemas legados e arquitetura de sistemas em .NET, React e TypeScript.
 
