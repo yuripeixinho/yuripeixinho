@@ -10,14 +10,6 @@ Engenheiro de Software com +4 anos de experiência em SaaS, ERPs e fábrica de s
 - 📚 Compartilho aprendizados resultantes dos estudos diários no [Dev.To](https://dev.to/yuripeixinho), com artigos baseados em experiências reais de desenvolvimento
 - 📈 Minhas soluções priorizam boas práticas, simplicidade (extensibilidade e modularidade, se necessário), e continuidade operacional em produção
 
-## :computer: Tecnologias e ferramentas
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,sass,javascript,ts,react,mysql,sqlite,postgres,docker,git,sentry,postman,azure,bitbucket,github,figma" />
-  </a>
-</p>
-
 ## 📫 Conecte-se comigo
 
 <div align="center">
